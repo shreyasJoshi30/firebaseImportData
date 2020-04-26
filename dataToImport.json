@@ -1,0 +1,47 @@
+
+{ "locationData<yourname of collection>":
+[
+ {
+   "Latitude": -37.4147482,
+   "Longitude": 144.9807591,
+   "Name": "Wallan Old Time Market",
+   "Address": "Hadfield Park Wallan",
+   "Postcode": 3756,
+   "Type": "Market",
+   "Classify": "Market",
+   "Description": "North and West Metropolitan Region; Loddon-Mallee; Hume"
+ },
+ {
+   "Latitude": -36.35867025,
+   "Longitude": 146.310216,
+   "Name": "Wangaratta Trash and Treasure Market",
+   "Address": "Wareena Park Wangaratta",
+   "Postcode": 3677,
+   "Type": "Market",
+   "Classify": "Market",
+   "Description": "Hume"
+ },
+ 
+ {
+   "Latitude": -37.73022408,
+   "Longitude": 145.0250305,
+   "Name": "Ballarat YMCA Community Base",
+   "Address": "183 Albert Street Sebastopol",
+   "Postcode": 3356,
+   "Type": "Recreation Group,Swimming Pool",
+   "Classify": "Sport",
+   "Description": "Grampians"
+ },
+ {
+   "Latitude": -37.7026963,
+   "Longitude": 145.0785557,
+   "Name": "Masters Swimming Victoria",
+   "Address": "Sports House Albert Park",
+   "Postcode": 3206,
+   "Type": "State body,Swimming Club",
+   "Classify": "Sport",
+   "Description": "Southern Metropolitan Region"
+ }
+ 
+ ]
+ }
